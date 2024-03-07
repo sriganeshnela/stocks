@@ -1,0 +1,13 @@
+body{
+    background-color:cornsilk;
+}
+.decrease{
+    width: 420px;
+    height: 180px;
+    border-radius: 0px;
+}
+.increase{
+    width:420px;
+    height:180px;
+    border-radius: 0px;
+}
